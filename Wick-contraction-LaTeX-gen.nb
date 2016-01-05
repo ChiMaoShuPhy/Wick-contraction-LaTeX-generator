@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     70878,       1491]
-NotebookOptionsPosition[     68871,       1422]
-NotebookOutlinePosition[     69219,       1437]
-CellTagsIndexPosition[     69176,       1434]
+NotebookDataLength[     70907,       1492]
+NotebookOptionsPosition[     68900,       1423]
+NotebookOutlinePosition[     69248,       1438]
+CellTagsIndexPosition[     69205,       1435]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1415,9 +1415,10 @@ Cell[TextData[{
       BoxBaselineShift->0.5,
       BoxMargins->{{-0.3, 0}, {0, 0}}], "X"}],
     SingleLetterItalics->False], TraditionalForm]]],
- " manually"
+ " manually."
 }], "Section",
- CellChangeTimes->{{3.6609423250320196`*^9, 3.660942356268895*^9}}]
+ CellChangeTimes->{{3.6609423250320196`*^9, 3.660942356268895*^9}, 
+   3.6609426646269484`*^9}]
 }, Open  ]]
 },
 WindowSize->{1325, 1020},
@@ -1491,7 +1492,7 @@ Cell[66024, 1346, 2256, 51, 97, "Output"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
-Cell[68319, 1402, 536, 17, 70, "Section"]
+Cell[68319, 1402, 565, 18, 70, "Section"]
 }, Open  ]]
 }
 ]
